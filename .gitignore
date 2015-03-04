@@ -1,0 +1,14 @@
+# white space after * makes it NOT blacklist everything. Be careful
+
+*
+
+!_vimrc
+!*/
+!config-backups/**
+!.gitignore
+!vimfiles/**
+
+
+
+
+
