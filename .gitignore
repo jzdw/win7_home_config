@@ -3,6 +3,7 @@
 *
 
 !_vimrc
+!.bashrc
 !*/
 !config-backups/**
 !.gitignore
