@@ -1,0 +1,21 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Console\%SystemRoot%_system32_cmd.exe]
+"ColorTable00" = dword:001e1e1e
+"ColorTable01" = dword:00ff6c60
+"ColorTable02" = dword:00a8ff60
+"ColorTable03" = dword:00ffffb6
+"ColorTable04" = dword:0096cbfe
+"ColorTable05" = dword:00ff73fd
+"ColorTable06" = dword:00c6c5fe
+"ColorTable07" = dword:00eeeeee
+"ColorTable08" = dword:007c7c7c
+"ColorTable09" = dword:00ffb6b0
+"ColorTable10" = dword:00ceffab
+"ColorTable11" = dword:00ffffcb
+"ColorTable12" = dword:00b5dcfb
+"ColorTable13" = dword:00ff9cfe
+"ColorTable14" = dword:00dfdffe
+"ColorTable15" = dword:00ffffff
+
+
