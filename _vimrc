@@ -11,7 +11,8 @@ if has("gui_running")
     set guifont=Menlo\ Regular:h14
   elseif has("gui_win32")
     "set guifont=Lucida_Sans_Typewriter:h14:cANSI
-    set guifont=Lucida_Sans_Typewriter:h14
+    "set guifont=Lucida_Sans_Typewriter:h14
+    set guifont=Monaco:h14
   endif
 endif
 "get rid of menu and tools bars
