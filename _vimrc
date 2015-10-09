@@ -1,7 +1,15 @@
 
 "set t_Co =  256
 "set background = dark
-colorscheme ir_black
+"colorscheme ir_black
+colorscheme jellybeans 
+set number
+
+"set plugin management
+call pathogen#infect()
+call pathogen#helptags()
+filetype plugin indent on
+syntax on
 
 "set windows fonts
 if has("gui_running")
@@ -25,6 +33,15 @@ set more
 "wrapping
 set nowrap
 "set linebreak
+
+"status line
+set showcmd
+set ruler
+
+"wrapping
+"set nowrap
+set linebreak
+set showbreak=..
 
 "status line
 set showcmd
