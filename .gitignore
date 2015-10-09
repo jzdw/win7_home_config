@@ -7,7 +7,7 @@
 !*/
 !config-backups/**
 !.gitignore
-!vimfiles/**
+!vimfiles/*
 
 
 
